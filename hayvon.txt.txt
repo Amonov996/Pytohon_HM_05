@@ -1,0 +1,1000 @@
+Little cormorant,Violet,Pawitan,2011,22
+Giant heron,Yellow,Dankama,2000,37
+"Buffalo, wild water",Puce,Dayuan,2011,64
+House crow,Fuscia,Manola,2012,80
+"Tortoise, burmese brown mountain",Orange,Gimry,1985,73
+"Jacana, african",Maroon,Rerawere,2003,47
+Bobcat,Khaki,Shin’ichi,2009,42
+"Jackal, golden",Yellow,Tuapse,2000,18
+"Ibis, puna",Red,Reshetnikovo,2005,97
+Steenbuck,Aquamarine,Johanneshov,1994,24
+"Trumpeter, dark-winged",Red,Pedrogão,2010,7
+Indian giant squirrel,Green,Ad Dann,1984,23
+White-necked raven,Teal,San Cristóbal Verapaz,2008,68
+"Camel, dromedary",Violet,Jardin,1989,5
+Eleven-banded armadillo (unidentified),Red,Huayuan,2009,50
+Bald eagle,Blue,Linköping,2001,66
+"Goose, andean",Violet,Wierzawice,1989,74
+"Eland, common",Khaki,Kanye,1993,18
+"Phalarope, grey",Goldenrod,Drahichyn,2013,84
+"Otter, canadian river",Fuscia,Bajos de Haina,2005,63
+Spectacled caiman,Teal,Bellavista,1996,44
+"Caracara, yellow-headed",Violet,Baiguo,2008,10
+Brush-tailed bettong,Crimson,Huifa,2008,52
+"Wallaby, bennett's",Fuscia,Monchegorsk,1995,83
+"Nuthatch, red-breasted",Pink,Serov,1986,80
+Chacma baboon,Orange,Kozhevnikovo,2005,37
+Guerza,Goldenrod,Shawnee Mission,2008,4
+Turkey vulture,Puce,Huangbei,1999,51
+Goliath heron,Orange,Al Qāmishlī,1992,20
+"Elk, Wapiti",Maroon,Rybnoye,2012,69
+"Starfish, crown of thorns",Fuscia,Hořice,1996,94
+"Gull, herring",Indigo,Beo,2006,37
+Ring dove,Yellow,Santa Rita,1990,51
+"Porcupine, african",Turquoise,Vlycháda,2000,93
+"Peacock, blue",Purple,Itapemirim,1997,84
+"Shelduck, european",Violet,Santo Tomas,1984,69
+"Hawk, ferruginous",Puce,Chlói,2009,90
+African black crake,Mauv,Bragança,2010,89
+Manatee,Orange,Lubukalung,1992,84
+Emerald green tree boa,Maroon,Magallanes,2012,53
+African red-eyed bulbul,Crimson,Padova,1994,68
+"Heron, little",Aquamarine,Krajan Karanganyar,1992,8
+"Gecko, barking",Violet,Igbaras,1989,21
+"Dove, ring",Fuscia,Sousa,1996,18
+Crimson-breasted shrike,Red,Tassin-la-Demi-Lune,1992,48
+Asian openbill,Puce,Talisay,2006,10
+Vine snake (unidentified),Green,Kamubheka,2005,31
+"Whale, killer",Yellow,Velký Újezd,2004,7
+"Mynah, common",Goldenrod,Santa María del Real,1990,94
+Snowy sheathbill,Goldenrod,Murun-kuren,1967,26
+"Python, carpet",Green,Drogomyśl,2005,6
+Golden jackal,Orange,Ryazanskaya,2010,32
+"Kingfisher, white-throated",Indigo,Cockburn Town,2010,77
+"Racer, american",Violet,Pigcawayan,2000,86
+"Cockatoo, long-billed",Red,Jawornik Polski,2001,8
+Common boubou shrike,Violet,Erenhot,2011,80
+Rhesus monkey,Yellow,Huadi,2003,55
+Downy woodpecker,Khaki,Guia,1970,100
+"Cobra, egyptian",Yellow,Tangkolo,2004,41
+Netted rock dragon,Goldenrod,Rudy,2002,98
+"Phascogale, brush-tailed",Teal,Dogarmo,1992,2
+"Dragon, netted rock",Fuscia,Gon’ba,2009,97
+Hummingbird (unidentified),Yellow,Richmond,2006,62
+"Macaw, red and blue",Orange,Dadong,2007,14
+"Macaque, bonnet",Aquamarine,Bail,2005,74
+White rhinoceros,Mauv,Ngoc Hon Doc,1996,11
+Lizard (unidentified),Khaki,Boulsa,1994,42
+"Lion, california sea",Puce,Umm Şalāl ‘Alī,2009,1
+"Bear, american black",Green,Vrbice,2000,75
+"Colobus, magistrate black",Yellow,Seroa,2003,23
+"Vulture, white-headed",Orange,Tarnowskie Góry,1990,49
+Griffon vulture,Blue,Palcamayo,1995,100
+"Baboon, olive",Mauv,Tangxian,2012,26
+"Swan, trumpeter",Puce,Mwembe,1993,21
+"Dog, bush",Indigo,Annotto Bay,2003,11
+"Ibis, sacred",Goldenrod,Fort Worth,1994,84
+Water monitor,Puce,Ḩabīl ar Raydah,1977,47
+Hudsonian godwit,Pink,Kangxung,2002,34
+Bennett's wallaby,Goldenrod,Kaka,1991,84
+Superb starling,Puce,Ponjen,1995,5
+Yellow-billed hornbill,Yellow,Niafunké,2003,32
+Springbok,Orange,San Pedro,2008,85
+"Heron, little",Crimson,Enschede,1965,78
+"Hartebeest, coke's",Aquamarine,Lamak,2002,90
+Long-finned pilot whale,Indigo,Teluksantong,1988,48
+"Bulbul, black-eyed",Indigo,Primorsko,1995,34
+Red squirrel,Mauv,Masu,2003,81
+"Glider, sugar",Mauv,Chartres,2007,74
+Great egret,Pink,Jiaqiao,2006,86
+"Zorro, common",Blue,Czarna Woda,1996,72
+Rhesus monkey,Maroon,Antonio Toledo Corro,2000,10
+Dingo,Purple,Yushanpu,1995,33
+Glossy ibis,Orange,Konstantinovo,2003,93
+Paradoxure,Blue,Wujing,2010,71
+Common genet,Goldenrod,Al Fashn,2008,18
+Crested bunting,Puce,Tlogocilik,2003,68
+"Starling, cape",Turquoise,Xiongzhou,2005,86
+"Phascogale, brush-tailed",Maroon,Yuyao,2009,71
+"Turtle, long-necked",Red,Ponta Delgada,2008,6
+"Cockatoo, long-billed",Puce,Heshang,2012,11
+Scarlet macaw,Pink,Cigoong,2004,52
+Southern boubou,Mauv,Pinara,1998,10
+Bushbuck,Khaki,Hrotovice,2002,5
+Spur-winged goose,Red,Zhangshi,1994,61
+Flightless cormorant,Aquamarine,Bangkalan,1994,94
+Antelope ground squirrel,Blue,Alejo Ledesma,2007,86
+"Salmon, sockeye",Pink,Padre Nabeto,2006,22
+White-throated monitor,Red,Samuhú,1997,92
+Brown capuchin,Puce,Lyon,2003,57
+Blue and yellow macaw,Yellow,Maiwal,2012,74
+Red-billed tropic bird,Yellow,Shiree,1998,70
+Red and blue macaw,Goldenrod,Dera Bugti,2004,58
+Tiger cat,Khaki,Ayía Triás,1992,21
+"Bee-eater, nubian",Teal,Nabīnagar,1991,12
+"Kangaroo, jungle",Goldenrod,Pruszcz,2011,98
+"Possum, ring-tailed",Blue,Fenchen,2009,74
+Indian mynah,Aquamarine,Sandviken,2008,36
+"Heron, grey",Red,Yangfeng,1985,66
+Lilac-breasted roller,Aquamarine,Serzedo,1997,62
+"Porcupine, crested",Crimson,Xialaba,2005,86
+Wolf spider,Teal,Bagok,2004,49
+"Fox, bat-eared",Indigo,Karachi,2003,45
+"Lemur, brown",Purple,Qal‘at Bīshah,2004,53
+Eurasian hoopoe,Fuscia,Borås,1994,24
+Fork-tailed drongo,Khaki,Tarangnan,2010,94
+"Eagle, golden",Violet,Neópolis,2007,61
+Ringtail cat,Purple,Verkhozim,1995,60
+Civet cat,Violet,Vogan,2010,40
+"Macaque, pig-tailed",Puce,Brzeszcze,1994,10
+Blue duck,Puce,Sukhirin,1999,58
+Magistrate black colobus,Aquamarine,Huang’ao,1994,19
+White-tailed deer,Purple,Bislig,2006,4
+Malabar squirrel,Maroon,Garunggang,1995,90
+"Waxbill, black-cheeked",Orange,Rio do Sul,2008,50
+Euro wallaby,Orange,Karmaskaly,2008,23
+Cape fox,Khaki,Panacan,1998,87
+Gray langur,Violet,Nelson,1985,81
+"Penguin, fairy",Green,Liudaogou,2011,24
+African ground squirrel (unidentified),Khaki,Rybatskoye,2007,49
+"Bird, pied butcher",Fuscia,Adar,2011,44
+Black-faced kangaroo,Crimson,Calanogas,2000,57
+Zorilla,Teal,Stepnogorsk,1997,62
+Tawny frogmouth,Crimson,Abaetetuba,2007,8
+Suricate,Turquoise,Binkolo,2005,84
+Oriental short-clawed otter,Violet,Charlotte,2006,63
+Euro wallaby,Orange,Golek,2009,79
+"Caiman, spectacled",Teal,Boñgalon,1994,60
+Red-billed toucan,Yellow,Catriel,1999,53
+"Ibis, sacred",Violet,Gajah,2010,38
+African wild dog,Goldenrod,Cimuncang,2011,100
+Zorilla,Violet,Schäffern,2007,38
+Palm squirrel,Crimson,Pshekhskaya,1995,78
+"Kite, black",Yellow,Yukhnov,2004,78
+Agile wallaby,Pink,Krajan Craken,2003,100
+"Bustard, kori",Fuscia,Goussainville,1998,88
+Cottonmouth,Crimson,Colorado,2008,39
+Two-toed sloth,Khaki,Dārān,2011,64
+Hoary marmot,Indigo,Cerna,2011,99
+Tiger,Red,Lyubech,2000,72
+Pocket gopher (unidentified),Yellow,Beška,2000,59
+Koala,Yellow,Talitsy,1997,59
+Lizard (unidentified),Red,Cubará,1997,23
+Common dolphin,Puce,Huangmu,1999,16
+"Porcupine, north american",Indigo,Boden,2007,27
+"Goldeneye, barrows",Turquoise,Atsugi,1990,7
+"Deer, roe",Puce,Yunlong,1993,56
+"Iguana, common green",Goldenrod,Thị Trấn Tà Lùng,2002,60
+"Hen, sage",Violet,Tabango,2007,72
+White-mantled colobus,Indigo,Salantai,1992,6
+"Otter, giant",Orange,Rionegro,1987,25
+"Porcupine, tree",Purple,Kulonkali,2010,19
+Vicuna,Pink,Brive-la-Gaillarde,2008,69
+Collared lemming,Crimson,Hulu,1986,45
+Asian elephant,Khaki,Growong Kidul,1997,6
+"Armadillo, nine-banded",Aquamarine,Qushi’an,2012,79
+"Pademelon, red-legged",Teal,Wairiang,1993,84
+"Shelduck, common",Turquoise,Khārān,1973,22
+Tree porcupine,Orange,Pangascasan,2012,6
+"Sparrow, house",Green,Hrtkovci,2000,37
+Gray heron,Turquoise,Oberá,2007,77
+"Boubou, southern",Pink,Quşrah,1999,71
+"Gull, herring",Maroon,Payao,2005,95
+Mexican beaded lizard,Purple,Rosetta,1998,12
+Cape cobra,Fuscia,Semalang,1994,45
+Cormorant (unidentified),Violet,Pingxi,2011,24
+"Dragon, ornate rock",Khaki,Oslo,1965,58
+"Parrot, hawk-headed",Khaki,Ngembel,1987,59
+Long-tailed jaeger,Pink,Prado Siongco,2011,89
+"Seal, harbor",Red,Kotatengah,1992,3
+"Lizard, blue-tongued",Orange,Leeds,2011,86
+Little heron,Maroon,Cruz de Pau,1998,42
+"Kangaroo, red",Mauv,Cimara,2000,67
+"Vulture, white-headed",Red,Satu Nou,1998,67
+Pine squirrel,Fuscia,Palompon,2003,88
+Great skua,Khaki,Banepa,2003,11
+Hanuman langur,Puce,Kosan,2010,50
+Asian lion,Fuscia,Xiapu,1992,82
+"Bear, sloth",Maroon,Frederiksberg,1995,95
+"Mouse, four-striped grass",Pink,Pisaras,1992,13
+"Admiral, indian red",Aquamarine,Rafaï,1991,66
+Mule deer,Maroon,Várzea,1996,91
+Spotted hyena,Turquoise,Douz,1995,27
+Paddy heron (unidentified),Aquamarine,Mouzourás,1986,20
+"Snake, racer",Green,Sidowayah Lor,1992,1
+Lesser double-collared sunbird,Indigo,Carmen,2000,73
+"Lizard, blue-tongued",Turquoise,Huping,2002,82
+"Gull, swallow-tail",Yellow,Krujë,2010,46
+"Turtle, long-necked",Green,Henglu,2008,70
+"Eagle, bateleur",Aquamarine,Bakau,2008,6
+Sambar,Indigo,Klerksdorp,2000,90
+Griffon vulture,Red,Kao Liao,2009,41
+"Civet, common palm",Pink,Tanjungjaya,2005,99
+"Crocodile, nile",Yellow,New Westminster,2012,43
+"Lion, steller sea",Maroon,Ferreira do Alentejo,2002,53
+Toddy cat,Green,Sarrebourg,1991,72
+Arctic tern,Yellow,Buaran,1996,28
+Crimson-breasted shrike,Indigo,Qingping,2002,49
+Crab-eating fox,Puce,Eqbālīyeh,1998,4
+American marten,Mauv,Ongjin,1988,48
+Monitor lizard (unidentified),Green,Tongole,2006,64
+Swamp deer,Maroon,Yuxi,2003,86
+Southern brown bandicoot,Green,Lindong,2007,66
+"Crane, blue",Green,Lughaye,2006,28
+"Viper, egyptian",Puce,Wantou,2004,92
+"Albatross, galapagos",Aquamarine,Konibodom,1993,55
+Gecko (unidentified),Khaki,Charlotte,2005,14
+Crab-eating fox,Blue,Lille,1995,42
+"Dragon, western bearded",Red,Sanjiang,2009,22
+Dromedary camel,Mauv,Jarry,2009,92
+Pampa gray fox,Fuscia,Tuodian,2007,21
+Malabar squirrel,Puce,Fukushima-shi,1993,27
+"Heron, gray",Red,Paola,2009,78
+"Cormorant, little",Violet,Yacheng,2005,8
+"Frogmouth, tawny",Turquoise,Ngujuran,2011,43
+"Capuchin, brown",Blue,Andres Bonifacio,2001,31
+Nubian bee-eater,Puce,Uluarang,2004,37
+"Seal, northern fur",Aquamarine,Moryń,1991,44
+"Armadillo, common long-nosed",Violet,Gjoa Haven,2009,20
+Giant otter,Purple,Oymak,2008,24
+Red lava crab,Yellow,Cikawung,2010,90
+"Bird, pied butcher",Khaki,Esperanza,2009,93
+"Gazelle, thomson's",Crimson,Toledo,2005,27
+Bent-toed gecko,Orange,Tumcon Ilawod,2008,42
+Turkey vulture,Aquamarine,Liuhe,2000,54
+Blackbuck,Goldenrod,Jarry,1997,62
+Malabar squirrel,Purple,Qingkenpao,1989,69
+Boat-billed heron,Crimson,Jiguaní,2009,19
+"Bat, asian false vampire",Teal,Adani,1984,75
+North American red fox,Goldenrod,Thala,2010,47
+Blue-footed booby,Orange,San Carlos,1986,46
+"Flamingo, roseat",Indigo,Eslöv,2002,97
+Yellow-crowned night heron,Blue,San Antonio,2008,6
+Koala,Turquoise,Virginia Beach,2008,20
+"Drongo, fork-tailed",Violet,Huangliu,2003,23
+Malleefowl,Khaki,Parnaíba,2008,94
+"Heron, green-backed",Purple,Néa Karváli,1996,18
+"Gull, silver",Maroon,Kathu,1996,18
+White-throated toucan,Puce,Arhust,2000,78
+"Python, carpet",Puce,Dongshi,2001,16
+Black and white colobus,Khaki,Santa Ana,2007,40
+Darwin ground finch (unidentified),Puce,Yunlu,2002,36
+"Gazelle, grant's",Violet,Kasoa,2006,56
+"Snake, eastern indigo",Aquamarine,Kebon,1992,5
+Coqui partridge,Khaki,Ancona,2005,22
+Spotted wood sandpiper,Purple,Yayao,1999,29
+"Sheathbill, snowy",Teal,Ugbokpo,1993,93
+Old world fruit bat (unidentified),Crimson,Bagikkedok Lauk,2012,54
+"Vulture, bengal",Orange,Taoshan,1999,67
+"Dove, white-winged",Crimson,Suchedniów,1996,41
+"Hoopoe, eurasian",Violet,Shanjiang,1993,65
+"Penguin, magellanic",Purple,Södertälje,1993,78
+"Owl, white-browed",Orange,Šumice,2006,89
+Beisa oryx,Violet,Kitaibaraki,2001,86
+Lilac-breasted roller,Purple,Aras-asan,1996,96
+"Bleu, blue-breasted cordon",Crimson,Macau,2004,77
+Kori bustard,Teal,Flen,2011,35
+Red-legged pademelon,Fuscia,Saint-Lô,1998,37
+Sidewinder,Purple,Barberton,2003,67
+Blue peacock,Green,Huagu,1986,33
+"Woodpecker, downy",Blue,Chame,2008,38
+"Cat, ringtail",Green,Rybatskoye,1993,22
+Common turkey,Crimson,Queimados,2000,88
+"Dragon, komodo",Pink,Lap Lae,2001,13
+Common melba finch,Teal,Guatimozín,1977,50
+Grey lourie,Pink,Henglin,1996,49
+"Monkey, black spider",Khaki,Caluire-et-Cuire,2010,88
+"Thrasher, curve-billed",Aquamarine,Ngrowo,1992,1
+"Butterfly, tropical buckeye",Teal,Ongjin,1992,83
+"Tapir, brazilian",Pink,Goiás,2002,93
+"Lion, southern sea",Khaki,La Soledad,1995,90
+Blue duck,Orange,Ostrów Wielkopolski,1999,25
+Brown capuchin,Violet,North Side,1989,64
+"Bear, sloth",Teal,Shuiting,1983,15
+Gulls (unidentified),Indigo,Morani,1992,84
+"Ringtail, common",Violet,Tungipāra,1990,85
+"Cockatoo, red-breasted",Pink,Kota Bharu,2008,58
+"Colobus, white-mantled",Violet,Jönköping,2001,21
+Red brocket,Aquamarine,Dayou,2011,76
+Cape starling,Turquoise,Jatisari,2006,13
+Horned puffin,Violet,Jiaokou,2012,95
+"Mongoose, small indian",Puce,Fuzhiping,1984,48
+"Fox, arctic",Fuscia,Železnice,2006,62
+White-tailed jackrabbit,Blue,Gvozd,1987,21
+Great kiskadee,Aquamarine,Hanji,2003,11
+Black-tailed tree creeper,Indigo,Saint-Priest,2007,20
+"Gull, silver",Orange,Fangtai,2002,41
+Bontebok,Purple,Guéret,1995,73
+Wild turkey,Yellow,Alvito de São Pedro,1994,56
+Southern boubou,Red,Umag,1996,94
+"Lion, southern sea",Red,Qingfeng,1997,66
+"Darter, african",Teal,Maurole,2001,96
+Black-necked stork,Red,Breu,2002,76
+"Squirrel, european red",Orange,Lumbac,2006,57
+Giant heron,Blue,Passo Fundo,1983,42
+"Boubou, southern",Violet,Bucay,2009,49
+"Pintail, bahama",Puce,San Miguel,1998,87
+"Bear, black",Pink,La Ensenada,1994,36
+"Kangaroo, brush-tailed rat",Orange,El Tránsito,2009,51
+Flying fox (unidentified),Violet,Jindřichov,2011,83
+"Heron, goliath",Puce,Mao’ershan,2004,53
+"Shark, blue",Indigo,Xijiang,1992,88
+Cape Barren goose,Yellow,Ust’-Donetskiy,1997,57
+Ibex,Yellow,Neietsu,2003,59
+Bennett's wallaby,Aquamarine,Duntou,1985,35
+"Cormorant, little",Pink,Linglong,2012,62
+Striped hyena,Turquoise,Kharp,2007,37
+"Langur, gray",Turquoise,Erong,1993,1
+"Glider, sugar",Maroon,Huayuan,2011,73
+Cougar,Indigo,Jizhou,2008,81
+"Weaver, white-browed sparrow",Mauv,Gafanha da Encarnação,2012,20
+Olive baboon,Turquoise,Jastrzębia Góra,1993,43
+"Egret, great",Fuscia,Presidente Bernardes,1990,17
+"Marshbird, brown and yellow",Mauv,Libas,1999,2
+"Cormorant, little",Mauv,Bačka Palanka,2009,71
+"Monitor, two-banded",Crimson,Schäffern,2000,29
+Asiatic wild ass,Mauv,Fornelos,2002,1
+Mountain duck,Teal,Chamlykskaya,2002,39
+Dama wallaby,Purple,Little Current,2011,63
+Bobcat,Indigo,Perpignan,2007,80
+Horned lark,Blue,Choroszcz,2007,85
+Springhare,Pink,Herzliya Pituah,1999,84
+Red-breasted cockatoo,Green,Vasyshcheve,2012,4
+Bohor reedbuck,Maroon,Mirabel,1987,86
+"Vulture, oriental white-backed",Yellow,Gegernoong,1995,55
+Horned lark,Pink,Jarada,1956,12
+"Antelope, roan",Violet,Kampong Speu,2005,71
+Malleefowl,Pink,Haolibao,1967,68
+Bontebok,Crimson,Janowiec,2002,72
+"Fox, crab-eating",Puce,Roma,2000,31
+Nilgai,Orange,Azara,1996,18
+"Macaque, bonnet",Pink,Kizhinga,2010,60
+"Cormorant, flightless",Fuscia,Kasaoka,2011,24
+"Plover, blacksmith",Yellow,Werbkowice,1994,48
+Southern boubou,Maroon,Chengzhong,2002,27
+"Salmon, sockeye",Yellow,Tekeli,1996,92
+"Fox, arctic",Goldenrod,Józefów,2003,79
+Common duiker,Red,Kunyang,1993,23
+Chacma baboon,Indigo,Zvole,2004,64
+North American red fox,Maroon,Frutillar,2000,63
+"Ibis, sacred",Khaki,Černilov,2008,26
+Asian lion,Fuscia,Vigo,1998,54
+"Vulture, white-rumped",Violet,Gombong,1984,71
+Topi,Aquamarine,Saipan,2012,36
+"Bustard, denham's",Teal,Jucás,2007,81
+"Zebra, common",Blue,Bafatá,1985,24
+Water moccasin,Maroon,Sieniawa Żarska,1970,6
+"Heron, boat-billed",Yellow,Bang Ban,1992,91
+Pied kingfisher,Teal,Los Angeles,1991,99
+"Lion, australian sea",Orange,Tingsiqiao,2013,91
+Javanese cormorant,Mauv,Sandgerði,1996,17
+"Bustard, stanley",Goldenrod,Donostia-San Sebastian,2001,49
+"Shelduck, european",Mauv,Dobrá,2006,48
+"Boa, mexican",Mauv,Zhong’an,1994,25
+"Parrot, hawk-headed",Violet,Sumbuya,2008,27
+Spotted deer,Maroon,Nangka,1991,52
+Burrowing owl,Green,Chernukha,2010,35
+"Sheep, red",Khaki,Guishan,1975,84
+"Mongoose, javan gold-spotted",Blue,Maliana,1995,98
+Indian leopard,Fuscia,Busuanga,2003,35
+Eastern dwarf mongoose,Aquamarine,Tojeira,1987,75
+"Porcupine, tree",Pink,La Paz,2010,90
+"Python, carpet",Aquamarine,Sinegor'ye,2012,81
+"Bunting, crested",Blue,Kunyang,2001,44
+"Bird, red-billed tropic",Turquoise,Nong Muang,1990,61
+Crab-eating fox,Violet,Fresno,2006,54
+African polecat,Goldenrod,As Sālimīyah,2010,18
+Chilean flamingo,Crimson,Cuauhtemoc,2009,96
+"Jacana, african",Fuscia,Cosmópolis,2005,39
+Dama wallaby,Pink,Castanhal,2005,15
+Red and blue macaw,Teal,Ресен,1993,95
+"Rat, arboral spiny",Turquoise,Wahang Dua,2003,39
+"Shrike, southern white-crowned",Pink,Chernukha,2003,6
+Yellow-necked spurfowl,Green,Wuxia,2011,23
+Chimpanzee,Purple,Sharïngol,2006,16
+Hanuman langur,Fuscia,Minneapolis,2007,74
+"Mongoose, yellow",Turquoise,Beiwucha,2005,49
+"Cat, kaffir",Maroon,Canhas,2013,77
+"Deer, mule",Pink,Hengqu,2008,30
+African jacana,Mauv,San Francisco,2007,31
+"Gull, southern black-backed",Mauv,Cam Ranh,2001,50
+"Lemming, collared",Orange,Belo Horizonte,2010,71
+Campo flicker,Goldenrod,Krajan Ngerdani,1999,77
+"Stork, openbill",Pink,Cachan,2012,13
+Bleeding heart monkey,Pink,Cherga,1988,54
+Lesser double-collared sunbird,Teal,Svoboda nad Úpou,2001,51
+European beaver,Puce,Zhifudao,2003,79
+"Swan, black",Aquamarine,Slobidka,2000,84
+"Weaver, lesser masked",Yellow,Tulusmulyo,2002,62
+Sage grouse,Maroon,Kalapagada,2011,32
+Water legaan,Yellow,Tver,2001,85
+"Jacana, african",Crimson,Isahaya,1996,55
+"Kingfisher, pied",Blue,Montpellier,1998,68
+Red howler monkey,Purple,Umeå,1996,64
+Buttermilk snake,Turquoise,Zhangduangu,2002,31
+Marabou stork,Indigo,Panolan,2008,95
+Tyrant flycatcher,Teal,Ketawang,1960,54
+Golden jackal,Red,Thành Phố Nam Định,2003,72
+"Waterbuck, common",Indigo,Citeureup,2004,37
+Jungle cat,Orange,Cabra Figa,1991,79
+Sandhill crane,Goldenrod,Philadelphia,1995,81
+Sandhill crane,Fuscia,Pringu,1992,96
+Pied cormorant,Puce,Sumqayıt,2008,34
+Great kiskadee,Maroon,Makubetsu,1988,14
+Hummingbird (unidentified),Turquoise,Xilin,1971,27
+South African hedgehog,Indigo,Shangdundu,1995,29
+"Cat, african wild",Yellow,Kawm Ḩamādah,2000,95
+Pine squirrel,Yellow,Kristiansand S,1999,61
+Gambel's quail,Crimson,Gadingrejo,2004,29
+"Heron, black-crowned night",Fuscia,Piława Górna,2006,21
+Nubian bee-eater,Goldenrod,Canhas,1987,89
+Rainbow lory,Crimson,Yongping,1991,73
+Leopard,Fuscia,Karangtalun,2007,57
+American black bear,Fuscia,Wengyang,1984,12
+Little heron,Pink,Kardzhin,1988,53
+"Turtle, snake-necked",Mauv,Changfu,2005,65
+Nubian bee-eater,Khaki,Laya,2006,82
+Blue and gold macaw,Fuscia,Basista,2012,3
+Spectacled caiman,Orange,Ban Phaeo,2002,8
+"Lizard, mexican beaded",Fuscia,Guanqian,2012,54
+"Snake, buttermilk",Yellow,Estrada,2011,63
+Collared lizard,Green,Łomazy,2002,52
+Plains zebra,Indigo,Pasirsongket Dua,1994,22
+Osprey,Crimson,Gudauta,1994,7
+"Cardinal, red-capped",Crimson,Azor,2004,31
+Laughing dove,Goldenrod,Tata,1999,14
+"Cat, toddy",Purple,Karney Shomron,2009,73
+Plains zebra,Violet,Křenovice,1989,73
+"Gecko, ring-tailed",Yellow,Grivenskaya,1985,50
+"Glider, feathertail",Turquoise,Shushary,1997,52
+"Gull, kelp",Green,Bolo,2011,65
+"Booby, blue-faced",Teal,Kobylanka,2006,51
+"Opossum, american virginia",Green,Baliuag,2007,46
+"Egret, snowy",Turquoise,Vaggeryd,2003,87
+Fork-tailed drongo,Fuscia,Kefang,2006,73
+"Eagle, long-crested hawk",Goldenrod,Qaram Qōl,2000,88
+Gray heron,Pink,Carrigtwohill,1999,68
+"Squirrel, nelson ground",Crimson,Vukovar,1959,71
+Warthog,Mauv,Campamento,1994,49
+White-throated kingfisher,Orange,Cibalung,2004,15
+"Phascogale, red-tailed",Indigo,Iwye,1994,14
+"Mongoose, yellow",Pink,Bukowina Tatrzańska,2009,25
+"Lemur, ring-tailed",Purple,Pont-à-Mousson,1995,48
+"Antelope, sable",Violet,Jiefang,1993,82
+"Gazelle, thomson's",Red,Konstantinovsk,1993,17
+"Hawk-eagle, crowned",Turquoise,Pétionville,1999,60
+Common melba finch,Violet,Shitan,2006,24
+"Gnu, brindled",Crimson,Mishkino,1994,28
+Coqui francolin,Blue,Koski Tl,1987,36
+"Booby, blue-faced",Turquoise,Pretana,2008,94
+"Crane, black-crowned",Maroon,Longzhouwan,2003,99
+Red kangaroo,Puce,Avranches,2001,10
+Brazilian tapir,Aquamarine,Storozhnytsya,1989,77
+Manatee,Goldenrod,Padaran,1998,26
+"Cormorant, little",Yellow,Sŭedinenie,2007,27
+"Elephant, asian",Violet,Nanyaojie,2007,67
+"Gull, lava",Aquamarine,Samal,2005,21
+Moose,Yellow,Lukou,2006,62
+Arctic lemming,Purple,Sinop,2002,7
+Bush dog,Puce,Manjing,2008,36
+Long-billed cockatoo,Aquamarine,Xiangshan,2006,69
+Jungle cat,Red,Turanj,2007,7
+"Possum, pygmy",Maroon,Rovira,2011,14
+Rufous tree pie,Mauv,Portelândia,1989,68
+Greater adjutant stork,Aquamarine,Santa Maria,2009,12
+"Elk, Wapiti",Violet,Vespasiano,2012,23
+"Hawk-eagle, crowned",Crimson,Hājīganj,1984,52
+African black crake,Violet,Saint-Pierre,1998,33
+Yellow-necked spurfowl,Orange,Margen,1966,44
+"Waxbill, black-cheeked",Red,London,1995,53
+Barasingha deer,Yellow,Avignon,2003,27
+"Crane, stanley",Turquoise,KwaMbonambi,1997,59
+Crowned eagle,Green,Heemskerk,2002,71
+Four-spotted skimmer,Fuscia,Sebadelhe,1993,90
+Giant anteater,Blue,Schengen,2008,31
+"Cobra, cape",Khaki,Novozavidovskiy,2007,80
+Civet (unidentified),Orange,Sa’erhusong,2006,17
+Egyptian vulture,Indigo,Juan Adrián,1999,31
+Puna ibis,Violet,Gugut,1997,56
+Common raccoon,Violet,Volgodonsk,2006,85
+"Sheep, stone",Green,Luzern,2009,35
+"Sheep, red",Green,Puerto Cumarebo,2004,48
+Scottish highland cow,Blue,Yanglinshi,2005,30
+American Virginia opossum,Purple,Duma,2000,43
+Northern fur seal,Maroon,Staropavlovskaya,2011,50
+Chameleon (unidentified),Pink,Farkhah,2001,58
+"Reedbuck, bohor",Goldenrod,Ishinomaki,2012,84
+"Cockatoo, long-billed",Pink,Fatukanutu,1990,69
+"Skink, blue-tongued",Red,Xinghua,1993,21
+"Hen, sage",Aquamarine,Shinshiro,1987,73
+Black-necked stork,Mauv,Argostólion,1986,74
+Greater roadrunner,Purple,Tekeli,2005,46
+Malay squirrel (unidentified),Purple,Yur’yev-Pol’skiy,1994,68
+Western grey kangaroo,Mauv,Olenegorsk,1988,43
+"Bird, bare-faced go away",Orange,Santa Fé do Sul,1995,47
+"Bear, grizzly",Red,Elele,2005,60
+Harbor seal,Aquamarine,Wang Chan,1997,64
+Black vulture,Crimson,Laidian,2007,33
+"Frogmouth, tawny",Goldenrod,Yunlong,1999,9
+"Dove, mourning collared",Goldenrod,Alvalade,2006,48
+Magellanic penguin,Purple,Stubno,2012,81
+Honey badger,Purple,Liancheng,1996,74
+"Quoll, spotted-tailed",Violet,Yanling,1995,11
+"Bird, red-billed tropic",Purple,San Rafael,2006,37
+"Crow, house",Crimson,Cut-cut Primero,2000,79
+"Tern, white-winged black",Red,Jarabacoa,1999,1
+Large cormorant,Indigo,Luruaco,2002,22
+Little brown dove,Indigo,Soio,1963,15
+Palm squirrel,Aquamarine,Montenegro,1995,10
+"Grenadier, common",Turquoise,Dianya,2002,2
+"Bison, american",Goldenrod,Al Fandaqūmīyah,1990,48
+Long-tailed spotted cat,Yellow,Flandes,1992,29
+"Peccary, white-lipped",Purple,De la Paz,2011,57
+Four-spotted skimmer,Puce,Huilelot,1996,29
+"Shrew, mandras tree",Goldenrod,Tamandaré,1991,24
+Helmeted guinea fowl,Mauv,Lurut,2003,17
+"Starfish, crown of thorns",Fuscia,Krasnaya Polyana,1998,61
+Western palm tanager (unidentified),Puce,Den Haag,2006,57
+Australian pelican,Purple,Al Hilāliyya,1989,85
+Tawny frogmouth,Puce,Pensacola,1991,62
+White-throated robin,Blue,Malabar,2008,72
+"Ass, asiatic wild",Indigo,Nikol’sk,2011,82
+"Otter, giant",Maroon,Yurkivka,1993,49
+Large-eared bushbaby,Violet,Carson City,2004,69
+Thomson's gazelle,Red,Pontang Tengah,2000,45
+"Colobus, black and white",Maroon,Karlstad,2004,43
+Gray duiker,Goldenrod,Mirontsi,2006,81
+"Zebra, common",Violet,Qorveh,2008,97
+"Kangaroo, jungle",Green,Perivólia,1993,34
+"Toucan, red-billed",Turquoise,Parfino,2001,85
+Javanese cormorant,Orange,Norrköping,2006,7
+Gerbil (unidentified),Crimson,Vermil,2012,62
+Short-nosed bandicoot,Yellow,Kréstena,2011,99
+Alpaca,Indigo,Duki,1999,8
+Canadian river otter,Orange,Avignon,1995,12
+Sockeye salmon,Green,Chão de Couce,1988,96
+Butterfly (unidentified),Aquamarine,Cocorná,1994,36
+Euro wallaby,Turquoise,Ciervo Petiso,1993,38
+Sulfur-crested cockatoo,Crimson,Ḩakamā,2009,32
+Pied crow,Puce,L'Assomption,2007,13
+"Eagle, african fish",Mauv,Qarāwul,2001,90
+"Raven, white-necked",Turquoise,Antequera,2007,1
+"Ibis, glossy",Green,Tân Châu,2010,81
+"Squirrel, malabar",Crimson,Wolin,1991,100
+"Skua, long-tailed",Puce,Wangqu,1994,73
+"Booby, blue-footed",Khaki,Giồng Riềng,1993,3
+"Screamer, crested",Aquamarine,Dikou,2004,76
+European shelduck,Fuscia,Mojogajeh,1999,52
+"Lizard, goanna",Turquoise,Xiaba,1995,100
+Southern boubou,Violet,Perez,1996,55
+"Tortoise, asian foreset",Purple,Buzet,1993,25
+Fisher,Khaki,Juntang,2011,59
+"Anteater, australian spiny",Orange,Cacheu,2003,90
+Buttermilk snake,Aquamarine,Metsavan,2008,28
+"Zebra, common",Crimson,Ozimek,2005,87
+"Mongoose, small indian",Mauv,Stockholm,2010,15
+Turkey vulture,Fuscia,Xiadu,2001,97
+Antelope ground squirrel,Purple,Shuangqiao,1995,2
+Brown brocket,Violet,Marija Bistrica,2001,59
+Yellow baboon,Aquamarine,Farkhah,1996,78
+Woolly-necked stork,Fuscia,Guangli,2010,52
+American buffalo,Mauv,Shuikou,1989,18
+Javanese cormorant,Orange,Nianyushan,2009,80
+"Starling, superb",Violet,Uva,2008,34
+Black-capped capuchin,Turquoise,Mikhaylov,1971,75
+Swallow (unidentified),Turquoise,Dingbu,1995,11
+"Iguana, land",Orange,Napier,2005,36
+White-fronted capuchin,Khaki,Lindesberg,1986,99
+"Lion, australian sea",Teal,Padaimut,1992,16
+"Gecko, barking",Turquoise,La Joya,1995,4
+"Rattlesnake, eastern diamondback",Pink,Luz de Tavira,2002,18
+"Bear, black",Turquoise,Castlepollard,2000,44
+"Boa, cook's tree",Turquoise,Nūr,2006,35
+North American river otter,Goldenrod,Antony,2010,86
+"Stork, saddle-billed",Khaki,Kadoma,2009,95
+"Glider, feathertail",Turquoise,Zavety Il’icha,2008,2
+"Fox, asian red",Puce,Trelleborg,2002,37
+"Fox, crab-eating",Orange,Mayenne,1993,26
+Asian water buffalo,Red,Shizunai-furukawachō,1992,98
+"Crab, sally lightfoot",Fuscia,Cha-am,2008,79
+"Eagle, bald",Red,Washington,2011,40
+"Tinamou, elegant crested",Violet,Serra,1997,37
+"Lion, galapagos sea",Orange,Log pri Brezovici,2011,39
+"Lynx, african",Turquoise,San Bernardino,1990,56
+"Insect, stick",Purple,Banjing,2008,36
+Common long-nosed armadillo,Turquoise,Zhongshan,2002,73
+"Bustard, kori",Violet,Áyios Nikólaos,2004,26
+"Turtle, long-necked",Green,Yangdang,2012,74
+Burchell's gonolek,Goldenrod,Ar Ruways,2004,48
+Baleen whale,Aquamarine,Täby,1969,81
+Eastern indigo snake,Orange,Hushan,2002,77
+"Cockatoo, red-tailed",Mauv,Maoping,1997,41
+"Otter, small-clawed",Indigo,Negara,2007,39
+"Barbet, black-collared",Pink,Belyy Yar,1990,20
+Andean goose,Khaki,San Pedro,2005,75
+Black kite,Pink,Kalangala,1993,79
+Red-shouldered glossy starling,Aquamarine,Yinchuan,2005,18
+"Waxbill, violet-eared",Purple,Bungursari,1995,99
+"Baboon, chacma",Orange,Paris 14,2012,71
+"Bustard, kori",Pink,Dawangzhuang,1998,3
+"Albatross, waved",Pink,Presidente Médici,1996,25
+Red-legged pademelon,Fuscia,Xiaowuzhan,2001,23
+Common genet,Aquamarine,Carpenter,1965,13
+Radiated tortoise,Mauv,Tangwang,1993,5
+Paca,Pink,Beregovoy,1995,43
+"Rhea, common",Maroon,Salgado,1997,49
+Hummingbird (unidentified),Crimson,Haapsalu,1998,92
+"Turtle, snake-necked",Blue,Nenagh,2006,50
+"Bustard, denham's",Violet,Paracatu,2011,91
+Cattle egret,Red,Prostřední Bečva,1995,47
+White-tailed deer,Goldenrod,Jincheng,2006,30
+Anaconda (unidentified),Crimson,Gorskaya,1992,97
+Springhare,Blue,Poitiers,1992,94
+Turtle (unidentified),Goldenrod,Wanhu,1994,80
+"Trumpeter, dark-winged",Khaki,Sa'dah,2009,39
+"Tern, white-winged black",Pink,Saga-shi,2012,83
+"Teal, hottentot",Crimson,Zaječar,2001,64
+Tree porcupine,Mauv,Rawawilis,1996,65
+Red phalarope,Puce,Elliot,2005,89
+Crown of thorns starfish,Red,Xinchengzi,2004,35
+Darwin ground finch (unidentified),Fuscia,Rurrenabaque,1995,24
+"Bleu, red-cheeked cordon",Goldenrod,Xialiao,1994,65
+Beisa oryx,Puce,Espinosa,2002,19
+Indian giant squirrel,Goldenrod,Quiriquire,2006,99
+Sable antelope,Aquamarine,Shagang,1998,71
+Seven-banded armadillo,Blue,Beiyang,2001,47
+"Cockatoo, long-billed",Puce,Partikan,2012,55
+Dama wallaby,Khaki,Fort-de-France,2002,93
+Royal tern,Red,Bangrat,2006,57
+"Cliffchat, mocking",Mauv,Ekibastuz,2004,61
+Onager,Fuscia,Bucheon-si,2012,47
+"Cat, toddy",Khaki,Lazurne,1994,91
+"Gorilla, western lowland",Goldenrod,Lescar,1997,20
+South African hedgehog,Maroon,Zográfos,2010,99
+Ocelot,Violet,Chartres,2007,49
+"Turtle, eastern box",Goldenrod,Changling,2004,76
+Russian dragonfly,Blue,Matão,1999,91
+"Bird, pied butcher",Red,Hinigaran,1994,10
+Flying fox (unidentified),Green,Vale de Figueira,1996,30
+Bontebok,Indigo,Pamoyanan,1998,14
+"Turtle, snake-necked",Aquamarine,Changhua,2005,44
+"Tortoise, asian foreset",Blue,Bahía Honda,2002,27
+Sambar,Blue,Ciudad Darío,2003,26
+Savannah deer (unidentified),Violet,Buenaventura,2010,58
+Kelp gull,Goldenrod,Rado,2007,12
+Rufous-collared sparrow,Mauv,San Francisco,1989,37
+Rainbow lory,Violet,Saint Paul,2010,26
+"Sheep, red",Pink,Xiaoyangqi,2005,94
+"Hawk, ferruginous",Green,Bhalwāl,2005,65
+Blackbuck,Blue,Japerejo,2008,15
+"Coatimundi, white-nosed",Indigo,Batatais,2007,84
+Arctic hare,Crimson,Cabeça Gorda,2003,10
+Long-necked turtle,Mauv,Jose Maria Morelos,2000,65
+White-winged black tern,Green,Dali,2012,1
+"Tenrec, tailless",Turquoise,Tall Tamr,1994,19
+Greater flamingo,Mauv,Serra Negra,2004,19
+"Darter, african",Purple,Blagoevgrad,1986,2
+Secretary bird,Red,Quilo-quilo,2002,62
+Curve-billed thrasher,Mauv,Cikalong,2001,67
+Rufous tree pie,Turquoise,Antimácheia,1997,22
+Gerenuk,Fuscia,Rokietnica,2011,82
+Curve-billed thrasher,Orange,Daduo,2008,71
+Horned rattlesnake,Khaki,Bondoboghila,1997,13
+Mountain goat,Violet,Cayungnan,1986,11
+Olive baboon,Teal,Poste du Lac,2004,54
+Kelp gull,Khaki,Karmaskaly,1989,91
+"Wallaby, agile",Yellow,Duncan,2010,50
+"Bustard, denham's",Puce,Shicha,1985,23
+Red meerkat,Yellow,Tunguang,1996,5
+Bent-toed gecko,Blue,Saint-Claude,2002,95
+"Crane, sarus",Orange,Ngangpo,1994,49
+Western lowland gorilla,Yellow,Huangqu,2003,62
+"Buffalo, african",Indigo,Henglishan,2003,17
+Giant otter,Turquoise,Santana do Paraíso,1995,45
+"Booby, blue-footed",Pink,Anse Boileau,1989,60
+"Seal, common",Goldenrod,Komorów,2003,7
+"Starling, superb",Maroon,Kinh Môn,2012,45
+"Skunk, western spotted",Turquoise,Esperanza,2002,59
+"Turkey, common",Aquamarine,Hengjie,2002,30
+Ring-tailed lemur,Yellow,Sigli,2005,70
+"Beaver, eurasian",Blue,Niquelândia,1960,27
+Rose-ringed parakeet,Pink,Tabor,2004,42
+"Booby, masked",Yellow,Promna,2006,77
+Argalis,Red,Wubao,2006,29
+Kori bustard,Aquamarine,Suozhen,2006,22
+"Cat, european wild",Yellow,Tongxing,2004,48
+"Bandicoot, long-nosed",Purple,Pomahuaca,1992,99
+"Rattlesnake, horned",Teal,Bayanbaraat,1994,13
+Monitor lizard (unidentified),Maroon,Oubei,2012,23
+"Starling, greater blue-eared",Mauv,Saint-Pierre-des-Corps,2000,35
+Ant (unidentified),Indigo,Kikerino,2004,100
+Four-horned antelope,Puce,Olovyannaya,2007,29
+"Bee-eater, carmine",Indigo,Sungayang,1992,73
+Canadian river otter,Blue,Maoping,1994,53
+"Iguana, common green",Green,Issy-les-Moulineaux,2007,65
+"Badger, european",Aquamarine,Weihai,1986,11
+North American porcupine,Maroon,Timpas,1993,16
+Roe deer,Purple,Parungjawa,2009,67
+Neotropic cormorant,Khaki,Ivoti,2009,37
+"Squirrel, richardson's ground",Pink,Novoul’yanovsk,1998,7
+"Cat, african wild",Purple,San Diego,2010,95
+"Sloth, two-toed tree",Crimson,San Ignacio,2010,74
+Superb starling,Turquoise,São João das Lampas,2006,31
+"Mongoose, yellow",Goldenrod,Bollène,2011,27
+"Rhinoceros, white",Violet,Dimiao,1992,2
+"Peccary, white-lipped",Goldenrod,Rietavas,2012,35
+Tiger,Green,Särevere,1990,89
+Rufous-collared sparrow,Violet,Basa,1999,99
+Common pheasant,Goldenrod,Sukasenang,2009,59
+"Trumpeter, dark-winged",Aquamarine,Raša,2010,24
+"Kangaroo, brush-tailed rat",Fuscia,Bronkhorstspruit,2012,82
+Clark's nutcracker,Pink,Āshtīān,2010,86
+Spur-winged goose,Green,Xiagong,2004,52
+"Buffalo, african",Pink,Bungu,1998,97
+Crested porcupine,Indigo,Leninogorsk,1969,88
+Black-winged stilt,Violet,Cortinhas,2005,55
+White-cheeked pintail,Violet,Chã Grande,1994,76
+"Stork, openbill",Green,Sanxianling,2007,16
+Javan gold-spotted mongoose,Indigo,Mursaba,1993,20
+"Peacock, blue",Turquoise,Gąbin,1991,4
+Palm squirrel,Purple,Gonghe,2001,69
+Woylie,Mauv,Sattahip,1965,95
+"Heron, green-backed",Teal,Ia Kha,2004,43
+Tiger cat,Teal,Kaji,1996,39
+"Deer, barasingha",Indigo,São José do Egito,2001,26
+"Zorro, common",Blue,Moijabana,1999,23
+"Insect, stick",Crimson,Sendai,2001,31
+"Vulture, oriental white-backed",Aquamarine,Profítis Ilías,1999,71
+Striped dolphin,Orange,El Doncello,2007,37
+"Squirrel, eurasian red",Teal,Adil Makmur,2008,4
+Egyptian cobra,Mauv,Baoshan,1999,84
+Large cormorant,Mauv,Al Fuwayliq,1959,44
+Yellow-throated sandgrouse,Mauv,Ibiá,2009,16
+"Echidna, short-beaked",Indigo,Durazno,1990,39
+"Crow, pied",Puce,Lindavista,2004,66
+American woodcock,Goldenrod,Maluanluan,2002,1
+Southern white-crowned shrike,Yellow,Remscheid,1963,87
+Koala,Fuscia,Vitina,2007,93
+Common goldeneye,Yellow,Turku,2002,40
+Three-banded plover,Crimson,Petrovsk,2009,76
+Brazilian otter,Crimson,Dahu,2003,85
+"Sloth, hoffman's",Turquoise,Riverton,2008,77
+"Otter, african clawless",Crimson,Srunikrajan,2003,28
+American black bear,Maroon,Plumbon,2010,2
+"Cormorant, neotropic",Mauv,São Bartolomeu,1996,9
+European badger,Aquamarine,Ambovombe,2003,17
+Marabou stork,Puce,Cikendi,2004,57
+"Mynah, common",Pink,Bolian,2012,48
+"Bat, asian false vampire",Teal,Guleluke,2012,64
+"Robin, kalahari scrub",Mauv,Bern,2000,97
+Brolga crane,Teal,Zhonghechang,1989,29
+Malabar squirrel,Khaki,Socorro,2011,46
+"Cormorant, javanese",Violet,Guanlu,2009,28
+Bat-eared fox,Blue,Roriz,2012,89
+"White-eye, pale",Violet,Montreuil,2003,52
+"Cat, long-tailed spotted",Orange,Santa Cecilia,2004,73
+Kinkajou,Red,Drybin,2000,94
+Red-tailed hawk,Goldenrod,Magersari,2003,55
+Common ringtail,Green,Jijiga,2002,59
+"Eagle, golden",Crimson,Pingshan,1994,5
+"Deer, roe",Yellow,Magay,1997,77
+"Glider, feathertail",Indigo,Laoxingchang,1997,38
+Brazilian tapir,Turquoise,Añatuya,1993,61
+"Skunk, western spotted",Goldenrod,Mainque,1999,100
+Common pheasant,Fuscia,Kamenica,1993,49
+"Meerkat, red",Indigo,Quxia,2005,63
+"Wapiti, elk,",Orange,Skien,1997,17
+"Wombat, common",Orange,Simitli,1997,37
+White-cheeked pintail,Orange,Yejia,1998,89
+"Mongoose, small indian",Pink,Sumqayıt,2000,42
+Black-necked stork,Aquamarine,Mamali,2008,15
+Brolga crane,Goldenrod,Kandun,1999,95
+"Vulture, king",Yellow,Minshan,1997,87
+Sambar,Blue,Luoshan,1997,85
+Cape Barren goose,Purple,Izmaylovo,2004,89
+Ground monitor (unidentified),Teal,Hinlayagan Ilaud,2007,33
+"Drongo, fork-tailed",Indigo,Dongbian,1990,21
+"Goose, spur-winged",Puce,Cascavel,2004,96
+"Boa, malagasy ground",Red,Jakubowice Murowane,2004,60
+Blackish oystercatcher,Yellow,Amiens,2003,100
+Mule deer,Blue,Fier,2009,11
+Giant otter,Purple,Kīsh,2002,23
+Galapagos mockingbird,Khaki,Morelos,1974,93
+"Rhinoceros, square-lipped",Fuscia,Tianfen,1993,64
+Agile wallaby,Purple,Quellouno,2004,71
+Red howler monkey,Maroon,Ishkhoy-Yurt,2003,76
+"Loris, slender",Fuscia,Leksand,2007,64
+"Civet, common palm",Teal,Jalālpur Pīrwāla,2006,73
+Bushbuck,Maroon,Voznesenskoye,2000,47
+Coqui francolin,Red,Kozlovice,1995,83
+Vicuna,Green,Tamano,1999,32
+Eurasian beaver,Maroon,Krapivna,1992,18
+Green vine snake,Blue,Ejmiatsin,2010,17
+Tiger,Maroon,Zvezdara,2005,66
+Savanna fox,Fuscia,Futian,1993,57
+"Gnu, brindled",Puce,Pilar,2001,14
+Galapagos penguin,Yellow,Tancheng,1982,14
+"Fox, pampa gray",Maroon,Garoua Boulaï,1999,41
+"Beaver, american",Blue,Toamasina,2003,95
+"Barbet, black-collared",Green,Lions Bay,2009,93
+"Skua, great",Maroon,Jeremoabo,1995,43
+"Quoll, spotted-tailed",Puce,Xagqu,2007,22
+Scottish highland cow,Yellow,Wilkowice,1994,13
+"Parakeet, rose-ringed",Turquoise,Okinawa Número Uno,2012,74
+"Spoonbill, european",Khaki,Néa Ionía,2001,46
+White-throated toucan,Yellow,Capacho Nuevo,2006,50
+Australian masked owl,Purple,Bojonggaling,1968,74
+"Racer, blue",Goldenrod,Wufu,1985,82
+"Stork, black-necked",Purple,Xylaganí,2007,43
+Common duiker,Turquoise,Landvetter,2004,57
+Elegant crested tinamou,Maroon,Tarub,2011,51
+"Pademelon, red-legged",Turquoise,Hostomice,2001,91
+"Wallaby, euro",Pink,Suwałki,1994,11
+"Antelope, four-horned",Pink,Pagangan,1992,35
+"Whale, southern right",Blue,Chenjiahe,2000,11
+"Puffin, horned",Indigo,Berdyans’k,2012,50
+Bottle-nose dolphin,Khaki,Brasília,2003,82
+Richardson's ground squirrel,Maroon,Dourados,1966,90
+"Bandicoot, short-nosed",Violet,Zaraysk,1999,86
+"Stilt, black-winged",Crimson,Tanarara,1997,13
+"Falcon, prairie",Turquoise,Chiba,2011,39
+Spotted-tailed quoll,Blue,Arvayheer,1991,4
+"Alligator, american",Crimson,Baishui,1954,44
+Ovenbird,Fuscia,Stony Plain,1997,42
+"Sungazer, yellow-brown",Fuscia,Ho,1994,17
+Lizard (unidentified),Fuscia,Kouango,1997,22
+"Duck, comb",Goldenrod,San José,2011,10
+"Cormorant, great",Puce,New Orleans,2000,70
+Common green iguana,Orange,Fubei,2001,83
+Coqui partridge,Green,Tylicz,2009,17
+"Darter, african",Pink,Netvořice,2008,81
+"Cockatoo, roseate",Red,Notranje Gorice,1998,3
+Alpaca,Green,Sumuragung,1996,100
+Galapagos dove,Red,Latung,2004,96
+"Boubou, southern",Puce,Bontoc,1983,7
+Woodrat (unidentified),Red,Mangas,2002,61
+Arctic lemming,Green,Itambé,2010,42
+"Partridge, coqui",Green,Phoenix,1990,49
+"Gazer, sun",Red,Smiths Falls,2010,4
+Brown hyena,Green,Manay,1998,84
+"Dove, little brown",Pink,Khemisset,1987,76
+Black curlew,Puce,Fortaleza,1995,59
+"Ibis, puna",Blue,Septfontaines,2006,76
+Black-backed jackal,Fuscia,Fundong,1999,23
+"Cardinal, black-throated",Indigo,Muquiyauyo,1995,72
+Brindled gnu,Aquamarine,Hangwula,1995,100
+Dassie,Purple,Skoura,2001,7
+"Mynah, indian",Puce,Guanhães,2010,68
+Four-horned antelope,Indigo,Liangshan,2006,95
+Impala,Teal,Minante Segundo,1999,24
+Australian sea lion,Pink,Pañgobilian,2009,77
+"Porcupine, crested",Aquamarine,Kelapa,1996,18
+Crab (unidentified),Fuscia,Atipuluhan,1967,1
+"Shelduck, common",Purple,Pristina,2011,27
+"Squirrel, thirteen-lined",Purple,Kvasy,2001,55
+"Phalarope, grey",Violet,Guli,2006,38
+Black-cheeked waxbill,Pink,Netishyn,2011,56
+Collared lemming,Teal,Novi Šeher,2001,34
+Grison,Khaki,Orahovica Donja,2011,80
+Laughing dove,Green,Verkhniye Osel’ki,1991,97
+"Woodpecker, downy",Green,Feicheng,2005,18
+"Cobra, egyptian",Orange,Rakhmanovo,2004,75
+Steller sea lion,Violet,Matam,1990,34
+Red-cheeked cordon bleu,Goldenrod,Yinjiang,2007,51
+"Raven, white-necked",Purple,Inazawa,1996,50
+Ring-necked pheasant,Fuscia,Dębno,2001,91
+"Lion, galapagos sea",Crimson,Watangan,1990,51
+Common genet,Violet,Alor Setar,2012,57
+Red-necked wallaby,Goldenrod,Santa Cruz de Barahona,1986,49
+"Monkey, black spider",Mauv,Habiganj,2005,100
+Common brushtail possum,Teal,Shuangshi,1991,23
+Snake-necked turtle,Pink,Jiangdulu,1994,94
+"Dove, rock",Violet,Wanmu,2008,11
+"Armadillo, giant",Teal,Haliut,2003,80
+White-throated kingfisher,Yellow,Santo Tomas,2012,74
+Suricate,Khaki,La Virgen,2006,60
+Blacksmith plover,Puce,Machachi,1987,54
+Red meerkat,Orange,Şafwá,2001,66
+"Langur, common",Teal,Dunkerque,2003,40
+"Starling, cape",Pink,Prażmów,1997,4
+Bird (unidentified),Mauv,Rovira,1991,15
+Springbok,Yellow,Nowa Sarzyna,2002,79
+Red-tailed wambenger,Khaki,Tarikolot,1995,95
+Great cormorant,Blue,San Angelo,1992,48
+Gambel's quail,Crimson,Lyon,2006,6
+"Starling, red-shouldered glossy",Maroon,Loureiro,1997,74
+Western palm tanager (unidentified),Indigo,Nachalovo,1988,29
+Black curlew,Indigo,Mīrpur Sakro,1992,59
+Caribou,Khaki,Kafr Şūr,2001,83
+"Jackal, silver-backed",Violet,Larangan,2000,5
+"Barbet, levaillant's",Maroon,Kujang,1994,3
+Snake-necked turtle,Puce,Perrelos,1997,16
+Kelp gull,Crimson,Macaíba,1970,22
+"Dove, laughing",Orange,Rates,1989,72
+Cormorant (unidentified),Green,Pasarkuok,1968,67
+Uinta ground squirrel,Red,Zhourui,2008,90
+Lapwing (unidentified),Turquoise,Miringa,1984,81
+White-fronted capuchin,Indigo,Maoya,2012,21
+Mudskipper (unidentified),Violet,Modderfontein,2002,63
+Arctic tern,Pink,Resende,1997,44
+Secretary bird,Blue,Piraí do Sul,2010,89
+"Mongoose, javan gold-spotted",Indigo,Kurovskoye,2005,3
+Sandhill crane,Teal,Al Majd,2012,21
+"Porcupine, crested",Fuscia,Caibiran,1989,62
+Flying fox (unidentified),Puce,Kambingan,1996,98
+"Vulture, turkey",Maroon,Dongshi,2006,95
+"Rattlesnake, dusky",Pink,Amboasary,1993,26
+Sun gazer,Blue,Simnas,2004,23
+Vine snake (unidentified),Teal,Žebrák,1985,58
+"Raven, white-necked",Maroon,Bourgoin-Jallieu,1993,73
+Snowy egret,Red,Nossebro,2000,44
+Black-crowned crane,Goldenrod,Palangan,2011,7
+White-tailed jackrabbit,Violet,Paris 13,1986,82
+Openbill stork,Khaki,Marvdasht,2011,68
+"Wallaby, euro",Fuscia,Tayginka,1986,61
+Little grebe,Goldenrod,Xicheng,1993,22
+Little cormorant,Turquoise,Jiangwan,1993,71
+"Gazelle, thomson's",Puce,Coaldale,1990,42
+"Lemur, grey mouse",Violet,Changhan,1992,56
+African lynx,Yellow,Qianshan,1992,100
+Glossy starling (unidentified),Teal,Minbu,2007,24
+"Bandicoot, long-nosed",Aquamarine,Braço do Norte,1992,58
+Squirrel glider,Aquamarine,Farranacoush,1992,41
+Mississippi alligator,Orange,Rääkkylä,2009,74
+Black-tailed deer,Violet,Naranjo,2004,91
+"Chickadee, black-capped",Maroon,Lagunas,1995,57
+Agile wallaby,Violet,Banjar Kubu,1994,95
+"Bird, black-throated butcher",Fuscia,Būrewāla,2008,71
+Yellow-brown sungazer,Khaki,Nizhnyaya Maktama,1992,88
+Moose,Aquamarine,Douniani,1989,11
+"Baboon, yellow",Khaki,Pasirmalang,1909,64
+Four-striped grass mouse,Turquoise,Jojoima,2006,40
+Carmine bee-eater,Puce,Umeå,1992,8
+"Tamandua, southern",Crimson,Ōi,2010,11
+Barasingha deer,Green,Stockholm,2008,9
+"Squirrel, richardson's ground",Orange,Cairo,2002,75
+Nyala,Crimson,Rzhev,1991,67
+"Antelope, four-horned",Blue,Kuroishi,2003,91
+Bottle-nose dolphin,Green,Thamaga,1992,48
+Canadian river otter,Green,El Zapotal del Norte,1987,65
+Red-tailed phascogale,Fuscia,Magatos,2008,41
+Salmon pink bird eater tarantula,Pink,Asemanis,2012,18
+Indian red admiral,Violet,Nakanojōmachi,1998,1
+Burmese brown mountain tortoise,Puce,Rochester,2007,13
+"Sheep, american bighorn",Purple,Mugumu,1994,21
+White-nosed coatimundi,Violet,Adelaide Mail Centre,2008,24
+"Squirrel, smith's bush",Turquoise,Caimitillo,1998,25
+Southern boubou,Maroon,Bełżyce,1993,19
+"Goose, andean",Fuscia,Fuzhuang,2008,26
+"Wallaby, tammar",Puce,Zinat,2002,52
+"Bulbul, black-fronted",Maroon,Hwawŏn,2004,89
+"Hen, sage",Khaki,Kaa-Khem,2003,14
+Spotted hyena,Orange,Mooka,2006,21
+"Cliffchat, mocking",Red,Liqiao,2004,90
+Numbat,Maroon,Pakembangan,2006,47
+"Tapir, brazilian",Blue,Ngunguru,1996,73
+Puma,Violet,‘Aşīrah al Qiblīyah,2012,84
+"Macaw, blue and gold",Blue,Voinjama,2009,8
+Yellow-rumped siskin,Puce,Rio de Janeiro,2004,25
+Asian false vampire bat,Pink,Shuidong,2008,26
+"Penguin, magellanic",Orange,Little Rock,2008,75
+"Turkey, australian brush",Maroon,Guangshan,2011,76
+Paradoxure,Turquoise,Qarqania,2005,73
+Emerald-spotted wood dove,Puce,Shashūbay,1987,77
+Western patch-nosed snake,Violet,Kubang,2001,79
+"Blackbird, red-winged",Pink,Muyudian,2010,59
+Galapagos penguin,Red,Thouars,2006,67
+Western bearded dragon,Blue,Kosh-Agach,2009,69
+"Porcupine, indian",Crimson,Dongkengkou,2011,47
+"Lark, horned",Red,Jembangan,2009,76
+"Flicker, field",Blue,Baiyang,1994,2
+"Crow, american",Goldenrod,Cincinnati,2010,48
+Reindeer,Mauv,Kristianstad,2010,5
+Asian foreset tortoise,Khaki,Hobart,2011,65
+"Woodcock, american",Green,Balekersukamaju,1992,91
+"Pelican, australian",Khaki,Mirzāpur,1996,61
+Tree porcupine,Red,Springfield,1998,50
+"Whale, killer",Turquoise,Patabog,1994,60
+"Otter, small-clawed",Maroon,Parungjawa,2011,66
+Downy woodpecker,Turquoise,Carig,2007,64
+African elephant,Teal,Rakvere,2011,40
